@@ -1,0 +1,1 @@
+docker run -p 5252:5252 flask-hello-world
