@@ -1,0 +1,1 @@
+We configurate here to nginx to listend the port 9000 with the app
